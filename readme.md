@@ -1,1 +1,1 @@
-This is a new repository for all python programming antics
+Python Practice goes here!
